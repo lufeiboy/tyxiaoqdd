@@ -19,7 +19,6 @@ F:\DayText\github\tyxiaoqdd\tyxiao.qdd.webui\tyxiao.qdd.webui\bin\System.Web.Raz
 F:\DayText\github\tyxiaoqdd\tyxiao.qdd.webui\tyxiao.qdd.webui\bin\System.Web.WebPages.xml
 F:\DayText\github\tyxiaoqdd\tyxiao.qdd.webui\tyxiao.qdd.webui\bin\System.Web.WebPages.Deployment.xml
 F:\DayText\github\tyxiaoqdd\tyxiao.qdd.webui\tyxiao.qdd.webui\bin\System.Web.WebPages.Razor.xml
-F:\DayText\github\tyxiaoqdd\tyxiao.qdd.webui\tyxiao.qdd.webui\obj\Debug\tyxiao.qdd.webui.csprojResolveAssemblyReference.cache
 F:\DayText\github\tyxiaoqdd\tyxiao.qdd.webui\tyxiao.qdd.webui\obj\Debug\tyxiao.qdd.webui.dll
 F:\DayText\github\tyxiaoqdd\tyxiao.qdd.webui\tyxiao.qdd.webui\obj\Debug\tyxiao.qdd.webui.pdb
 F:\DayText\github\tyxiaoqdd\tyxiao.qdd.webui\tyxiao.qdd.webui\bin\Microsoft.Web.Infrastructure.xml
